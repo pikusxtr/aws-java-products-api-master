@@ -93,7 +93,7 @@ Serverless: Stack update finished...
 Service Information
 service: products-api
 stage: dev
-region: us-east-1
+region: eu-central-1
 stack: products-api-dev
 api keys:
   None
